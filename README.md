@@ -1,4 +1,6 @@
 # Disaster_Message_ML_Pipeline
+Use a data set containing real messages that were sent during disaster events, Creating a machine learning pipeline to categorize these events so that the messages can be send to an appropriate disaster relief agency
+
 ## app
 **template**
 * master.html  # main page of web app
