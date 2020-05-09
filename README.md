@@ -3,6 +3,7 @@ Use a data set provided by Figure Eight containing real tweets/text messages tha
 
 ## app
 Here is the list of html files and Python script to run the web app.
+
 **template**
 * master.html  # main page of web app
 * go.html  # classification result page of web app
@@ -17,6 +18,6 @@ Build the ETL Pipeline using CSV files contain text messages to process
 - DisasterResponse.db   # database to save clean data to
 
 ## models
-Build a Machine Learning Pipeline
+Build a Machine Learning Pipeline using cleaned data saved in DiasterReponse.db
 - train_classifier.py
 - classifier.pkl  # saved model 
